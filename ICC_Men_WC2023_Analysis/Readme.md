@@ -6,4 +6,23 @@ This project aims to build insights and identify the best 11 players for the 202
 
 The 2023 ICC Men's Cricket World Cup was the 13th edition of the Cricket World Cup, a quadrennial One Day International (ODI) cricket tournament, in which ten national teams participated. The tournament was hosted by India. It started on 5 October and concluded on 19 November 2023, with Australia winning the tournament.
 
-Your goal is to use the data of the matches available to build insights on a best 11 players team of the tournament.</p>
+<strong>Your goal is to use the data of the matches available to build insights on a best 11 players team of the tournament.</strong></p>
+
+<h3>Data and Methodology</h3>
+The project utilizes three datasets scraped from ESPN Cricinfo:
+<ol>
+  <li>
+    <strong>Match Summary:</strong> Contains information about each match, including winner, win margin, and scorecards (URL espncricinfo ON https://www.espncricinfo.com/records/tournament/team-match-results/icc-cricket-world-cup-2023-24-15338).
+  </li>
+
+  <li>
+    <strong>Batting and Bowling Scorecard:</strong> Provides detailed statistics for each batsman and bowler in every match (Data scraped from espncricinfo)
+  </li>
+
+  <li>
+    <strong>Player Data:</strong> Includes information about each player, such as batting and bowling styles, playing role, and team (Data scraped from espncricinfo).
+  </li>
+</ol>
+
+ <h3>Implementation</h3>
+<p>The data is processed and analyzed using Python libraries like <strong>Beautiful Soup</strong> and <strong>Selenium</strong> for web scraping and Pandas for data manipulation. The project utilizes various data analysis techniques to identify key performance indicators and select the best players based on performance metrics and team balance.</p>
