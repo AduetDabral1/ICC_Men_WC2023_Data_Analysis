@@ -60,6 +60,19 @@ This project aims to deliver:
   <li>PowerBi</li>
 </ol>
 
+<br>
+
+<h3>Project Methodology</h3>
+<p>The project is to be completed following these steps:
+<ul>
+    <li>Data Scraping</li>
+    <li>Data Cleaning and Pre-Processing</li>
+    <li>Parameter Scoping</li>
+    <li>Data Transformation using Power Query</li>
+    <li>Visualization using Power BI dashboards</li>
+</ul>
+</p>
+
 
 
 
