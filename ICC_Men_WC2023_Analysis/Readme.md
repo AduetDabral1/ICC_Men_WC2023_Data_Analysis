@@ -37,7 +37,7 @@ The project utilizes three datasets scraped from ESPN Cricinfo:
 <br>
 
  <h3>Implementation</h3>
-<p>The data is processed and analyzed using Python libraries like <strong>Beautiful Soup</strong> and <strong>Selenium</strong> for web scraping and <strong>Pandas</strong> for data manipulation. The project utilizes various data analysis techniques to identify key performance indicators and select the best players based on performance metrics and team balance. The entire project is visualized using POwer BI Dashboards.</p>
+<p>The data is processed and analyzed using Python libraries like <strong>Beautiful Soup</strong> and <strong>Selenium</strong> for web scraping and <strong>Pandas</strong> for data manipulation. The project utilizes various data analysis techniques to identify key performance indicators and select the best players based on performance metrics and team balance. The entire project is visualized using <strong>Power BI Dashboards</strong>.</p>
 
 <br>
 
@@ -57,7 +57,7 @@ This project aims to deliver:
   <li>Beautiful Soup</li>
   <li>Selenium</li>
   <li>Pandas</li>
-  <li>PowerBi</li>
+  <li>PowerBI</li>
 </ol>
 
 <br>
