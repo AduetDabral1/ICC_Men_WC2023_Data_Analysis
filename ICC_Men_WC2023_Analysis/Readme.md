@@ -52,6 +52,10 @@ This project aims to deliver:
 <br>
 
 <h3>Technologies</h3>
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 <ol>
   <li>Python</li>
   <li>Beautiful Soup</li>
@@ -64,15 +68,14 @@ This project aims to deliver:
 
 <h3>Project Methodology</h3>
 <p>The project is to be completed following these steps:
-<ul>
-    <li>Data Scraping</li>
-    <li>Data Cleaning and Pre-Processing</li>
-    <li>Parameter Scoping</li>
-    <li>Data Transformation using Power Query</li>
-    <li>Visualization using Power BI dashboards</li>
-</ul>
+1. 📝Requirement Scoping
+2. 🌐Data Collection using Web Scraping from [ESPN Cricinfo](https://www.espncricinfo.com/records/tournament/icc-cricket-world-cup-2023-24-15338) website
+3. 🧹Data Cleaning and Preprocessing in Pandas
+4. 🪄Data Transformation in Power Query
+5. ⚒️Data Modelling and Building Parameters in Power BI using DAX
+6. 📊Building the Dashboard in Power BI
 </p>
-
-
+<br><br>
+<strong>To interact with the dashboard you can download the pbix file from the repository and open it in Power BI Desktop locally.</strong>
 
 
