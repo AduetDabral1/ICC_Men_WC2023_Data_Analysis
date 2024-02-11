@@ -41,5 +41,5 @@ The Random Forest algorithm achieved a training accuracy of 74.0% and a test acc
 Based on the outcomes of this model, it suggests that <strong>India</strong> has a higher likelihood of winning the World Cup.
 </p>
 
-<h2>REFERNCE</h2>
+<h2>REFERENCE</h2>
 <a href="https://github.com/Paul-Andrew-15/ICC-2023-Worldcup-prediction">Paul-Andrew-ICC-WC-2023-Prediction</a>
