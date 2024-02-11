@@ -1,6 +1,7 @@
 <h1>ICC Men's Cricket World Cup 2023 Analysis</h1>
 <p>This project aims to build insights and identify the best 11 players for the 2023 ICC Men's Cricket World Cup using data scraped from ESPN Cricinfo.</p>
 
+[![Screenshot-2024-01-09-155723.png](https://i.postimg.cc/MH7STf2t/Screenshot-2024-01-09-155723.png)](https://postimg.cc/0Ky3XQNJ)
 <br>
 
 <h3>Project Overview</h3>
@@ -76,4 +77,13 @@ This project aims to deliver:
 <br><br>
 <strong>To interact with the dashboard you can download the pbix file from the repository and open it in Power BI Desktop locally.</strong>
 
+[![Screenshot-2024-02-11-123752.png](https://i.postimg.cc/7h84wMcf/Screenshot-2024-02-11-123752.png)](https://postimg.cc/ZBc2L3JS)
+
+[![Screenshot-2024-02-11-123817.png](https://i.postimg.cc/dtFFf6rf/Screenshot-2024-02-11-123817.png)](https://postimg.cc/grg1XvMy)
+
+[![Screenshot-2024-02-11-123831.png](https://i.postimg.cc/dQrvnpkd/Screenshot-2024-02-11-123831.png)](https://postimg.cc/hhDHtC0P)
+
+[![Screenshot-2024-02-11-123847.png](https://i.postimg.cc/BvzswGB5/Screenshot-2024-02-11-123847.png)](https://postimg.cc/yJ0wkt5W)
+
+[![Screenshot-2024-02-11-123903.png](https://i.postimg.cc/LXZSc0xc/Screenshot-2024-02-11-123903.png)](https://postimg.cc/cgZPYTyh)
 
