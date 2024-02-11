@@ -36,12 +36,12 @@ Fueled by a passion for both cricket and data science, I embarked on a project t
 This project transcended mere prediction and achievement, aiming to provide valuable contributions to the understanding and enjoyment of the World Cup for fans and analysts alike.
 <ul>
 <li><strong>Enhanced Prediction Capabilities:</strong> My predictive model offered valuable insights for cricket enthusiasts and data-driven analysts, potentially influencing strategic planning and decision-making within the sport.</li>
-<li><strong>Data-Driven Storytelling:</strong> The "Team of the Tournament" selection, fueled by objective data and analysis, provided a fresh perspective on player performance beyond traditional metrics, potentially fostering deeper appreciation for various contributions to the game.</li>
-<li><strong>Interactive Knowledge Sharing:</strong> The interactive dashboard democratized access to comprehensive tournament data, empowering fans and analysts to explore, compare, and gain deeper understanding of individual and team performances, potentially enriching the overall cricket discourse.</li>
+<li><strong>Data-Driven Storytelling:</strong> The "Team of the Tournament" selection, fueled by objective data and analysis, provided a fresh perspective on player performance beyond traditional metrics, potentially fostering a deeper appreciation for various contributions to the game.</li>
+<li><strong>Interactive Knowledge Sharing:</strong> The interactive dashboard democratized access to comprehensive tournament data, empowering fans and analysts to explore, compare, and gain a deeper understanding of individual and team performances, potentially enriching the overall cricket discourse.</li>
 </ul>
 
 By combining data science expertise with a passion for the sport, this project aimed to contribute to a more informed, insightful, and ultimately more enjoyable World Cup experience for various stakeholders.
 
 <p>
-<strong>Note:</strong> Feel free to further personalize this description by adding more specific details about the features created, metrics used for evaluating players, and the functionalities of your dashboard. \
+<strong>Note:</strong> Feel free to further personalize this description by adding more specific details about the features created, metrics used for evaluating players, and the functionalities of your dashboard. 
 </p>
